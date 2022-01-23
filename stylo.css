@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color:  #87CEEB ;
+    display: block;
+    top: 0;
+
+
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    
+    
+    
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    background:linear-gradient(#A9A9A9, #40E0D0);
+    text-align: center;
+   
+
+}
+.top h1{
+    color: #808080;
+    size: 60px;
+    padding: 20px 10px;
+    font-size: 50px;
+}
+.top h3{
+    display: inline-block;
+    padding: 30px 10px;
+    color: #666666;
+    
+    
+    
+}
